@@ -24,3 +24,4 @@ function sub (v) {
 }
 
 console.log(adder(mult(2), sub(2), mult(2))(1));
+ 
