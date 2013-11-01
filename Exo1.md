@@ -1,6 +1,3 @@
-ExoJavascript
-=============
-
 Exercice 1:
 
 function adder() {
