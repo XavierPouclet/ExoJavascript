@@ -12,7 +12,7 @@ function adder() {
     });
     return res;
   }
-}
+} 
 
 function mult (v) {
   return function (e) {
